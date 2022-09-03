@@ -1,0 +1,5 @@
+Emet - шаблони коду. 
+Snippets - власні шаблони. 
+Open User Settings (JSON) - файл налаштувань
+
+https://www.codewars.com сайт для практики
